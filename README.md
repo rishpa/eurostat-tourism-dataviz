@@ -38,3 +38,7 @@ Flourish (slope chart)
 Tableau Public (map)
 
 ChatGPT + Google Gemini (writing support)
+
+## Objective
+
+The goal of this project is to analyze tourism trends across European countries between 2015–2024 using Eurostat datasets and visual storytelling techniques.
